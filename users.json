@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "user": "Admin",
+    "pass": "user",
+    "bio": "Hello",
+    "pp": "https://i.pravatar.cc/100"
+  }
+]
