@@ -4,7 +4,8 @@
     "text": "H",
     "time": 1777855287869,
     "reply": null,
-    "id": "1777855287869_af0cf7qa_4"
+    "id": "1777855287869_af0cf7qa_4",
+    "seen": false
   },
   {
     "user": "Admin",
@@ -14,12 +15,14 @@
       "user": "Admin",
       "text": "H"
     },
-    "id": "1777855292813_5egfcnkg_5"
+    "id": "1777855292813_5egfcnkg_5",
+    "seen": false
   },
   {
     "user": "aufa",
     "text": "Halo",
     "time": 1777857059666,
-    "id": "1777857059666_9w28u0j7_8"
+    "id": "1777857059666_9w28u0j7_8",
+    "seen": false
   }
 ]
