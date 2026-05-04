@@ -4,18 +4,23 @@
     "text": "Halo",
     "time": 1777857059666,
     "id": "1777857059666_9w28u0j7_8",
-    "seen": true
+    "seen": true,
+    "type": "text"
   },
   {
     "id": "1777877400934_djynbjspxq",
     "user": "Admin",
     "text": "Ok ReyChat",
     "time": 1777877400934,
-    "seen": false
+    "seen": false,
+    "type": "text"
   },
   {
     "user": "aufa",
     "text": "Boleh",
-    "time": 1777877593682
+    "time": 1777877593682,
+    "id": "1777877593682_c60hrlwe",
+    "seen": false,
+    "type": "text"
   }
 ]
