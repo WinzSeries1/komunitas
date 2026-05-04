@@ -26,11 +26,15 @@
   {
     "user": "aufa",
     "text": "Halo",
-    "time": 1777877721686
+    "time": 1777877721686,
+    "id": "1777877721686_c7kcem22_3",
+    "seen": false
   },
   {
     "user": "aufa suka makan",
     "text": "Halo",
-    "time": 1777877853585
+    "time": 1777877853585,
+    "id": "1777877853585_oiem9pzl_4",
+    "seen": false
   }
 ]
