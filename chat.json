@@ -1,14 +1,6 @@
 [
   {
     "user": "Admin",
-    "text": "H",
-    "time": 1777855287869,
-    "reply": null,
-    "id": "1777855287869_af0cf7qa_4",
-    "seen": false
-  },
-  {
-    "user": "Admin",
     "text": "Pp",
     "time": 1777855292813,
     "reply": {
@@ -35,7 +27,7 @@
   {
     "id": "1777877417235_d2h1wf0aw8",
     "user": "Admin",
-    "text": "Halo semua! Ada yang online? 👋",
+    "text": "Halo semua! Ada yang online? ð",
     "time": 1777877417235,
     "seen": false
   }
